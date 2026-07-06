@@ -1,2 +1,10 @@
-# Marketplace-Growth
-Marketplace growth strategies, merchant enablement and GTM playbooks.
+Marketplace Growth
+
+Topics
+
+Merchant Acquisition
+GTM Strategy
+Pricing
+Merchant Success
+Revenue Growth
+Growth Metrics
